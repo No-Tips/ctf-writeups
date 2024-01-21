@@ -1,4 +1,4 @@
-# CTF Writeup: Advancer JSON Cutifier
+# CTF Writeup: Advanced JSON Cutifier
 
 ## Challenge Description
 
