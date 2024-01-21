@@ -10,6 +10,9 @@ We have many fun novels for ya...
 
 The challenge presented a basic site allowing users to read novels, introducing a "donate" mechanic that unlocked more words in a novel based on credits.
 
+![site](https://github.com/No-Tips/ctf-writeups/assets/75416333/09d1f0b0-5794-4f2d-9f33-c6c3ef0290d0)
+
+
 
 Diving into the source code, I identified several endpoints:
 
