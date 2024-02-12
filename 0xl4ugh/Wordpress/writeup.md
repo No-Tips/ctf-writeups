@@ -60,7 +60,7 @@ User-Agent: Microsoft-Delivery-Optimization/10.0
 Host: tlu.dl.delivery.mp.microsoft.com
 ```
 
-That is all, what we can clearly identify in a "quick" glance. Know, after marking the important steps of this hacking attempt, we can dig deeper and actually answer the question of our challenges.
+That is all, what we can clearly identify in a "quick" glance. Now, after marking the important steps of this hacking attempt, we can dig deeper and actually answer the question of our challenges.
 
 ### Wordpress-1
 
