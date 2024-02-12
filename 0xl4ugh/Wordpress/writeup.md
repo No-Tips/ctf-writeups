@@ -14,7 +14,7 @@ This writeup is for a forensic challenge involving a .pcap file named "Wordpress
 
 First thing that I have done was the really broad overlook of what happened. Because this capture is really big (200 mb), I just sorted it by a protocol and start digging up and just understanding, what is happenning, alongside marking some interesting packets.
 
-So, whats happened?
+So, what happened?
 
 We have an attack on some HTTP server (IP 192.168.204.128) by some intuder on 192.168.204.132. We can clearly identify it by just looking at some of the requests, that he is using some automation tools to scan the site:
 
@@ -49,7 +49,7 @@ User-Agent: sqlmap/1.7.12#stable (https://sqlmap.org)
 Host: 192.168.204.128
 ```
 
-Alongside this attack we have a lot of junk with a Microsoft Delivery Optimisation, so in the next step it will be crucial to sort-out all of this requests:
+Alongside this attack we have a lot of junk with a Microsoft Delivery Optimization, so in the next step it will be crucial to sort-out all of this requests:
 ![junk](image-2.png)
 
 We can be sure about nature of this requests by, again, looking at the insides of it:
