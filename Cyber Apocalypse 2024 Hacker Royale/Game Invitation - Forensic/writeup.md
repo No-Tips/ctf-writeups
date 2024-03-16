@@ -256,4 +256,4 @@ With our flag as a base64-ed cookie. So, after decoding we will get our flag:
 HTB{m4ld0cs_4r3_g3tt1ng_Tr1cki13r}
 
 
-Actually, it was really cool experience for me, as I never have done malware analysis of a sample, so this journey for me was really interesting and cool.
+Actually, it was really cool experience for me, as I never have done malware analysis of some sample, so this journey for me was really interesting. GGs!
